@@ -95,8 +95,8 @@ static void wifi_init_sta(void) {
 
     wifi_config_t wifi_config = {
         .sta = {
-            .ssid = "HUAWEI-2.4G-3bus",
-            .password = "34Rfvcde",
+            .ssid = "Your_Home_Wifi_2.4G",
+            .password = "Your_Passwd",
             .threshold.authmode = WIFI_AUTH_WPA2_PSK
         },
     };
