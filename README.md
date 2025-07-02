@@ -20,6 +20,7 @@ From VSCODE
 2.upload ESP32: idf.py flash
 3.monitor ESP32 running (also IP address allocation): idf.py -p COM3 monitor
 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/074dfb7a-671b-4cbf-a6e2-c2d9b7d58631" />
 
 
 ![image](https://github.com/user-attachments/assets/7d749c13-e88a-420d-8f83-865565a2016e)
