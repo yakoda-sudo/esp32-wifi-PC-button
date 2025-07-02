@@ -5,8 +5,8 @@ ESP32-->replay module---> SW on motherboard
 visit http://esp32.local and control the PC powerbutton
 
 ESP32 pin D14 ---> LED (debugging purpose)
-      pin D12 ---> relaymodule
-      VIN --->
+      pin D12 ---> relaymodule Dx port
+      VIN --->both relaymodule and LED
       GND --->both relaymodule and LED
 
 From VSCODE 
